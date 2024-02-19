@@ -1,0 +1,2 @@
+# blog
+Fastapiの練習
